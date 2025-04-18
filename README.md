@@ -9,7 +9,7 @@ This project compares three regression models:
 
 ## Key Steps
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
+- Feature Engineering : Check Duplicated Data, Check Missing Value Handling, Outlier Analysis
 - Model Training & Evaluation
 - Visualization of Predictions
 
