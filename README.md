@@ -16,7 +16,7 @@ This project compares three regression models:
 ## Conclusion
 **Random Forest Regressor** showed the best performance with the lowest Mean Squared Error (MSE) is 13.045153611111104 and highest R² score is 0.9778294466160586.
 
-## 🛠Tools Used
+## Tools Used
 - Python (3.10+), Google Colab
 - Pandas, Seaborn, Matplotlib
 
