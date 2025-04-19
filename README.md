@@ -22,18 +22,6 @@ This project compares three regression models:
 - `student_scores.xlsx` — Input dataset
 
 ## Conclusion
-- Linear Regression:
-MSE: 18.943211722315272
-R2: 0.9678055545167994
-
-- Decision Tree Regression:
-MSE: 31.7
-R2: 0.9461250849762066
-
-- Random Forest Regression:
-Mean Squared Error (MSE): 13.045153611111104
-R-squared (R2): 0.9778294466160586
-
 **Random Forest Regressor** showed the best performance with the lowest Mean Squared Error (MSE) is 13.045153611111104 and highest R² score is 0.9778294466160586.
 
 ## Preview
